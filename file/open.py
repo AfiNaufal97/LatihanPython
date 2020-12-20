@@ -1,0 +1,2 @@
+
+print(open("text.txt"))
